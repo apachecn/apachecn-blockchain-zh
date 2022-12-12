@@ -1,3 +1,3 @@
-# web 3 大学
+# Web3University 中文系列教程
 
-来源:[https://www.frontendinterviewhandbook.com](https://www.frontendinterviewhandbook.com)
+> 原文：<https://www.web3.university/>
